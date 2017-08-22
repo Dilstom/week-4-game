@@ -36,7 +36,7 @@ function reset() {
     gem2 = computerChoice(1,12);
     gem3 = computerChoice(1,12);
     gem4 = computerChoice(1,12);
-// have problem with reset - it stops matching properly with computerPick
+
   newScore = 0;
   $("#totalScore").text(newScore);
 }
