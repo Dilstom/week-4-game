@@ -3,6 +3,7 @@
                 height: 130px;}
 body {
     background-color: #abe6d0;
+    font-family: sans-serif, serif, monospace;
     
 }
 .container {
@@ -13,6 +14,7 @@ h1 {
     background-color: #FCD8B8;
     color: white;
     padding-left: 10px;
+    font-size: 1.2em;
 }
 .row {
     background-color: #E7F5F6;
@@ -25,12 +27,21 @@ h1 {
     background-color: #CAFFB9;
     padding: 10px 20px 27px  0px;
     margin-left: 15px;
+    font-size: 1.5em;
 }
 .scoreBoard {
     background-color: #8DFCEC;
+  margin-left: 15px;
+    font-size: 1.2em;
+    padding-top: 10px;
 }
 .total {
     background-color: #B2BA65;
     padding-bottom: 30px;
     margin-left: 15px;
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+#totalScore {
+    font-size: 1.7em;
 }
