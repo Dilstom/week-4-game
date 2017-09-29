@@ -1,5 +1,5 @@
 # week-4-game
- ![alt text](images/Capture1.PNG "Four Crystals")
+ ![alt text](assets/images/Capture1.PNG "Four Crystals")
 There are four crystals displayed as buttons on the page.
 The player will be shown a random number at the start of the game.
 When the player clicks on a crystal, it will add a specific amount of points to the player's total score.
